@@ -4,7 +4,11 @@
 A fork of an easy-to-use SVC framework based on VITS with top1 retrieval 💯. In general, this fork provides a CLI interface in addition. And also gives you more f0 methods to use, as well as a personlized 'hybrid' f0 estimation method using nanmedian. <br><br>
 <b> 
 
-<h1> !! Feature implementations have been post-poned -- working on other related improvements !! </h1>
+
+<img src="easygui.png" /><br>
+  
+</div>
+
 
 
 > 💓 Please support the original [RVC repository](https://www.bilibili.com/video/BV1pm4y1z7Gm/). Without it, obviously this fork wouldn't have been possible. The Mangio-RVC-Fork aims to essentially enhance the features that the original RVC repo has in my own way. Please note that this fork is NOT STABLE and was forked with the intention of experimentation. Do not use this Fork thinking it is a "better" version of the original repo. Think of it more like another "version" of the original repo. Please note that this doesn't have a google colab. If you want to use google colab, go to the original repository. This fork is intended to be used with paperspace and local machines for now.
@@ -27,10 +31,6 @@ Special thanks to discord user @kalomaze#2983 for creating a temporary colab not
 <br>
 
 [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1z6qbF42Tz4NBgembIjIs6axpkVXSvciL?usp=sharing)
-
-<img src="https://33.media.tumblr.com/2344c05b16d25e60771d315604f90258/tumblr_nmy9cc0Zm71syljkjo1_1280.gif" /><br>
-  
-</div>
 
 ------
 
