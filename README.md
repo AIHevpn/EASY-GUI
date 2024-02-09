@@ -5,6 +5,10 @@ A fork of an easy-to-use SVC framework based on VITS with top1 retrieval 💯. I
 <b> 
 
 
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1z6qbF42Tz4NBgembIjIs6axpkVXSvciL?usp=sharing)
+
+
+
 <img src="easygui.png" /><br>
   
 </div>
@@ -29,8 +33,6 @@ I am able to communicate with you here and there.
 
 Special thanks to discord user @kalomaze#2983 for creating a temporary colab notebook for this fork for the time being. Eventually, an official, more stable notebook will be included with this fork. Please use paperspace instead if you can as it is much more stable.
 <br>
-
-[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1z6qbF42Tz4NBgembIjIs6axpkVXSvciL?usp=sharing)
 
 ------
 
