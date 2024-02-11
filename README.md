@@ -53,7 +53,7 @@ Special thanks to discord user @kalomaze#2983 for creating a temporary colab not
 + [audio-slicer](https://github.com/openvpi/audio-slicer)
 ## Thanks to all contributors for their efforts
 
-<a href="https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=liujing04/Retrieval-based-Voice-Conversion-WebUI" />
+<a href="https://github.com/AIHevpn/EASY-GUI/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=AIHevpn/EASY-GUI" />
 </a>
 
